@@ -1,15 +1,3 @@
-import React from "react";
-import styles from "./../footer/Footer.module.scss"
-
-const date = new Date()
-const year = date.getFullYear()
-
-const Footer = () => {
-  return (
-    <div className={styles.footer}>
-      &Copy {year} All Rights Reserved
-    </div>
-  );
-};
-
-export default Footer;
+version https://git-lfs.github.com/spec/v1
+oid sha256:779a6093fcb7663fee3cf982c74111fdb4147091f93a09ba57d53de087fa39bc
+size 289
